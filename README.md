@@ -1,6 +1,6 @@
 # hive-init-file-windows-test
 
-- For https://issues.apache.org/jira/browse/HIVE-28835 .
+- For https://issues.apache.org/jira/browse/HIVE-28835 and https://github.com/apache/shardingsphere/issues/35052 .
 - Execute the following command on the `Windows 11` instance with `PowerShell/PowerShell`, 
   `version-fox/vfox`, `git-for-windows/git` and `rancher-sandbox/rancher-desktop` installed.
 
